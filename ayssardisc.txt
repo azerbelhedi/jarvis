@@ -1,0 +1,40 @@
+         ###############2017-03-24 21:17:15.644202###############
+
+................................................................................
+
+you >>>>>> :hi
+
+jarvis:hello
+
+you >>>>>> :how are you
+
+jarvis:good and you ?
+
+you >>>>>> :fine
+
+jarvis:thats cool :)
+
+you >>>>>> :what s your name
+
+jarvis:i am JARVIS! and you ?
+
+you >>>>>> :what name
+
+jarvis:nice to meet you what
+
+you >>>>>> :what ur name
+
+jarvis:i am JARVIS! and you ?
+
+you >>>>>> :wht re nam
+
+jarvis:nice to meet you why
+
+you >>>>>> :he
+
+jarvis:hello
+
+you >>>>>> :hw are y
+
+jarvis:i study computer science in  harvard university ! and you?
+

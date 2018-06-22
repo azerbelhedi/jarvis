@@ -1,0 +1,299 @@
+you >>>>>> :hi 
+jarvis:hello
+you >>>>>> :how are you 
+jarvis:good and you ?
+you >>>>>> :i am good 
+jarvis:thats cool :)
+you >>>>>> :whats your name 
+jarvis:i am JARVIS! and you ?
+you >>>>>> :i am azer belhedi 
+jarvis:nice to meet you azer belhedi
+you >>>>>> :how old are you 
+jarvis:i am 18 years old! and you?
+you >>>>>> :i am 18 
+jarvis:good :)
+you >>>>>> :where are you from 
+jarvis:i am from the USA and i live in california and you ? 
+you >>>>>> :i am from tunisia 
+jarvis:oh  tunisia is a very nice and lovely place 
+you >>>>>> :where do you study 
+jarvis:i study computer science in  harvard university ! and you?
+you >>>>>> :what do you study 
+jarvis: what do you study ! that s nice
+you >>>>>> :i study in owford univercity 
+jarvis:hello
+you >>>>>> :heyyou >>>>>> :heyjarvis:helloyou >>>>>> :how are youjarvis:good and you ?you >>>>>> :finejarvis:thats cool :)you >>>>>> :whats your namejarvis:i am JARVIS! and you ?you >>>>>> :i sajed benalijarvis:nice to meet you sajed benaliyou >>>>>> :nice to meetyou tojarvis:sorry i can t understandyou >>>>>> :how ild are youjarvis:good and you ?you >>>>>> :how old are youjarvis:sorry i didn t understand what you sad .anyway :/ you >>>>>> :how old are youjarvis:i am 18 years old! and you?you >>>>>> :i am 15 years oldjarvis:good :)you >>>>>> :where are you fromjarvis:i am from the USA and i live in california and you ? you >>>>>> :i am from germanyjarvis:oh  germany is a very nice and lovely place you >>>>>> :where do you studyjarvis:i study computer science in  harvard university ! and you?you >>>>>> :i m in schooljarvis: school ! that s niceyou >>>>>> :hi
+jarvis:hello
+you >>>>>> :how are you
+jarvis:good and you ?
+you >>>>>> :good thx
+jarvis:thats cool :)
+you >>>>>> :hi
+jarvis:hello
+you >>>>>> :how are you
+jarvis:good and you ?
+you >>>>>> :fine thx
+jarvis:thats cool :)
+you >>>>>> :where are you from
+jarvis:i am from the USA and i live in california and you ? 
+you >>>>>> :iam from tunisia
+jarvis:oh  tunisia is a very nice and lovely place 
+.................................................................................
+you >>>>>> :hey
+jarvis:hello
+you >>>>>> :how are you
+jarvis:good and you ?
+you >>>>>> :fine :)
+jarvis:thats cool :)
+you >>>>>> :where are you from
+jarvis:i am from the USA and i live in california and you ? 
+you >>>>>> :i am from tunisia 
+jarvis:oh  is a very nice and lovely place 
+you >>>>>> :how old are you
+jarvis:i am 18 years old! and you?
+you >>>>>> :i am 15
+jarvis:good :)
+you >>>>>> :whats your name
+jarvis:i am JARVIS! and you ?
+you >>>>>> :i am azer
+jarvis:nice to meet you azer
+you >>>>>> :where do you study
+jarvis:i study computer science in  harvard university ! and you?
+you >>>>>> :hammem sousse unicersity
+jarvis: hammem sousse unicersity ! that s nice
+................................................................................
+you >>>>>> :hi
+jarvis:hello
+you >>>>>> :how are you
+jarvis:good and you ?
+you >>>>>> :whats s your name
+jarvis:sorry i didn t understand what you sad .anyway :/ 
+you >>>>>> :what is your name
+jarvis:i am JARVIS! and you ?
+you >>>>>> :azer
+jarvis:nice to meet you azer
+you >>>>>> :where are you from
+jarvis:i am from the USA and i live in california and you ? 
+you >>>>>> :i am from tunisia
+jarvis:oh  tunisia is a very nice and lovely place 
+you >>>>>> :how old are you
+jarvis:i am 18 years old! and you?
+you >>>>>> :i am 15
+jarvis:good :)
+you >>>>>> :good bye
+jarvis:hello
+................................................................................
+you >>>>>> :hi
+jarvis:hello
+you >>>>>> :whats s youyr name
+jarvis:i am JARVIS! and you ?
+you >>>>>> :azer
+jarvis:nice to meet you azer
+you >>>>>> :where are you from
+jarvis:i am from the USA and i live in california and you ? 
+you >>>>>> :i am from tunisia
+jarvis:oh  tunisia is a very nice and lovely place 
+you >>>>>> :how old are you
+jarvis:i am 18 years old! and you?
+you >>>>>> :i am 15
+jarvis:good :)
+................................................................................
+you >>>>>> :hey
+jarvis:hello
+you >>>>>> :how are you
+jarvis:good and you ?
+         #############################18/01/2017##############################
+................................................................................
+    #############################18/01/2017##############################
+................................................................................
+you >>>>>> :hey
+jarvis:hello
+you >>>>>> :how are you 
+jarvis:i am 18 years old! and you?
+you >>>>>> :how are you
+    #############################10/15/2017##############################
+................................................................................
+you >>>>>> :hey
+jarvis:hello
+you >>>>>> :how  are you
+jarvis:i am 18 years old! and you?
+you >>>>>> :15
+jarvis:good :)
+you >>>>>> :how are you
+jarvis:good and you ?
+you >>>>>> :where are you fro
+jarvis:sorry i didn t understand what you sad .anyway :/ 
+you >>>>>> :where are you from
+jarvis:i am from the USA and i live in california and you ? 
+you >>>>>> :i am from sousse
+jarvis:oh  sousse is a very nice and lovely place 
+you >>>>>> :how old are you
+jarvis:i am 18 years old! and you?
+you >>>>>> :18
+jarvis:good :)
+    #############################12/45/2017##############################
+................................................................................
+you >>>>>> :hey
+jarvis::)
+you >>>>>> :hello
+jarvis::)
+you >>>>>> :how are you
+jarvis::)
+    #############################12//##############################
+................................................................................
+you >>>>>> :hi
+jarvis::)
+    #############################//##############################
+................................................................................
+you >>>>>> :hello
+jarvis::)hello
+you >>>>>> :how are you
+jarvis::)howareyou
+    #############################45/4645/654##############################
+................................................................................
+you >>>>>> :hello
+jarvis::)helloproblem here
+    #############################12/46/2017##############################
+................................................................................
+you >>>>>> :hi
+jarvis:hello
+you >>>>>> :how are ypu
+jarvis:good and you ?
+you >>>>>> :what is your name
+jarvis:sorry i didn t understand what you sad .anyway :/ 
+you >>>>>> :what is your name
+jarvis:i am JARVIS! and you ?
+you >>>>>> :i am azer belhedi
+jarvis:nice to meet you azer belhedi
+you >>>>>> :how old are you
+jarvis:i am 18 years old! and you?
+you >>>>>> :i am 15
+jarvis:you re young :p
+you >>>>>> :thx
+jarvis:welcome
+you >>>>>> :where are you from
+jarvis:i am from the USA and i live in california and you ? 
+you >>>>>> :i am from germany and i live in tokyo
+jarvis:oh  tokyo is a very nice and lovely place 
+you >>>>>> :what do you study
+jarvis:i study computer science in  harvard university ! and you?
+you >>>>>> :i work
+jarvis: work ! that s nice
+you >>>>>> :thanks
+jarvis:welcome
+you >>>>>> :whats your name so
+jarvis:i am JARVIS! and you ?
+you >>>>>> :i am azer belhedi
+jarvis:nice to meet you azer belhedi
+you >>>>>> :nice to meet you to
+jarvis:good and you ?
+    #############################12/45/879##############################
+................................................................................
+you >>>>>> :hello
+jarvis:hello
+you >>>>>> :how are you
+jarvis:good and you ?
+you >>>>>> :end
+jarvis:sorry i didn t understand what you sad .anyway :/ 
+    #############################12/45/457##############################
+................................................................................
+you >>>>>> :hello
+jarvis:hello
+you >>>>>> :how areyou
+jarvis:good and you ?
+you >>>>>> :i am good
+jarvis:thats cool :)
+you >>>>>> :whats tour name
+jarvis:i am JARVIS! and you ?
+you >>>>>> :i am azer belhedi
+jarvis:nice to meet you azer belhedi
+    #############################12/45/7894##############################
+................................................................................
+    #############################126544z##############################
+................................................................................
+you >>>>>> :hello
+jarvis:hello
+you >>>>>> :how are you
+jarvis:good and you ?
+you >>>>>> :fine thx
+jarvis:welcome
+you >>>>>> :what syour name
+jarvis:i am JARVIS! and you ?
+you >>>>>> :i am azer belhedi
+jarvis:nice to meet you azer belhedi
+you >>>>>> :nice to meet you to
+jarvis:nice to meet you too
+you >>>>>> :where are you from
+jarvis:sorry i didn t understand what you sad : (where are you from)
+you >>>>>> :where are you from
+jarvis:i am from the USA and i live in california and you ? 
+you >>>>>> :i am frop tunisia and i live in sousse 
+jarvis:oh  is a very nice and lovely place 
+you >>>>>> :how old are you
+jarvis:i am 18 years old! and you?
+you >>>>>> :i am 18 years old
+jarvis:oh we are the same age :)
+you >>>>>> :bye
+jarvis:hello
+2017-01-19 00:51:18.727122
+................................................................................
+you >>>>>> :hey
+jarvis:hello
+you >>>>>> :bye
+jarvis:good bye
+2017-01-19 00:55:28.434363
+................................................................................
+2017-01-19 00:59:29.887122
+................................................................................
+         ###############2017-01-19 01:01:04.928433###############
+................................................................................
+you >>>>>> :hi
+jarvis:hello
+you >>>>>> :how are you
+jarvis:good and you ?
+you >>>>>> :what s your name
+jarvis:sorry i didn t understand what you sad : (what s your name)
+you >>>>>> :what is your name
+jarvis:i am JARVIS! and you ?
+you >>>>>> :i am azer belhedi
+jarvis:nice to meet you azer belhedi
+you >>>>>> :where are you from
+jarvis:i am from the USA and i live in california and you ? 
+         ###############2017-01-19 01:02:11.659963###############
+................................................................................
+you >>>>>> :by
+jarvis:good bye
+         ###############2017-01-19 01:06:34.119340###############
+................................................................................
+you >>>>>> :hey
+jarvis:hello
+you >>>>>> :how are you
+jarvis:good and you ?
+you >>>>>> :i m fine
+jarvis:thats cool :)
+you >>>>>> :whats your name
+jarvis:i am JARVIS! and you ?
+you >>>>>> :i am azer
+jarvis:nice to meet you azer
+you >>>>>> :where are you from
+jarvis:i am from the USA and i live in california and you ? 
+you >>>>>> :i am from sousse
+jarvis:oh  sousse i know it is  a very nice and lovely place 
+you >>>>>> :thx
+jarvis:welcome
+you >>>>>> :where do you study
+jarvis:i study computer science in  harvard university ! and you?
+you >>>>>> :i study in lhs
+jarvis: lhs ! that s nice
+you >>>>>> :bye
+jarvis:good bye
+         ###############2017-01-19 10:26:13.353675###############
+................................................................................
+         ###############2017-01-19 10:29:16.394549###############
+................................................................................
+         ###############2017-01-19 10:38:51.318645###############
+................................................................................
+you >>>>>> :hi
+jarvis:hello
+you >>>>>> :how are you
+jarvis:good and you ?

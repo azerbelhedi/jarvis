@@ -1,0 +1,50 @@
+         ###############2017-10-21 10:45:22.488490###############
+
+................................................................................
+
+you >>>>>> :hello
+
+jarvis:hello
+
+you >>>>>> :how are you
+
+jarvis:good and you ?
+
+you >>>>>> :fine thnaks
+
+jarvis:thats cool :)
+
+you >>>>>> :what is your name
+
+jarvis:i am JARVIS! and you ?
+
+you >>>>>> :i am azer belhedi
+
+jarvis:nice to meet you azer belhedi
+
+you >>>>>> :nice to meet uou too
+
+jarvis:sorry i can t understand(nice to meet uou too)
+
+you >>>>>> :ok
+
+jarvis:hello
+
+you >>>>>> :where are you from
+
+jarvis:i am from the USA and i live in california and you ? 
+
+you >>>>>> :i am from tunisia and i live in sousse
+
+jarvis:oh  sousse i know it is  a very nice and lovely place 
+
+you >>>>>> :i know
+
+jarvis:hello
+
+you >>>>>> :how old re you
+
+jarvis:i am 18 years old! and you?
+
+you >>>>>> :i am more than 18
+

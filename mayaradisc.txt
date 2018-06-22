@@ -1,0 +1,36 @@
+         ###############2017-01-29 15:59:28.816493###############
+
+................................................................................
+
+you >>>>>> :hi
+
+jarvis:hello
+
+you >>>>>> :how are you
+
+jarvis:good and you ?
+
+you >>>>>> :fine
+
+jarvis:thats cool :)
+
+you >>>>>> :today what is the dat[GCC 5.4.0 20160609] on linu
+
+jarvis:hello
+
+you >>>>>> :today what is the dat
+
+jarvis:sorry i can t understand(today what is the dat)
+
+you >>>>>> : aPython 3.5.2 (default, Nov 17 2016, 17:05:23)s
+
+jarvis:hello
+
+you >>>>>> :
+
+jarvis:what do you want to say
+
+you >>>>>> :ezzaeaz&zaeza
+
+jarvis:hello
+

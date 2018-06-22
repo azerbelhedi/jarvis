@@ -1,0 +1,6 @@
+bash_code:echo code
+echo azer
+echo bap
+echo kalatus
+echo bap is the best
+end

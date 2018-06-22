@@ -1,0 +1,24 @@
+
+         ###############2017-01-21 17:25:52.613094###############
+
+................................................................................
+
+you >>>>>> :hi
+
+jarvis:hello
+
+you >>>>>> :how are you
+
+jarvis:good and you ?
+
+you >>>>>> :fine thank you
+
+jarvis:welcome
+
+you >>>>>> :where are you from
+
+jarvis:i am from the USA and i live in california and you ? 
+
+you >>>>>> :iam from tunisia
+
+jarvis:oh  tunisia i know it is  a very nice and lovely place 

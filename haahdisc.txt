@@ -1,0 +1,20 @@
+         ###############2017-02-25 16:15:31.624297###############
+
+................................................................................
+
+you >>>>>> :hi
+
+jarvis:hello
+
+you >>>>>> :how are you
+
+jarvis:good and you ?
+
+you >>>>>> :fine thanks
+
+jarvis:welcome
+
+you >>>>>> :where are you from 
+
+jarvis:i am 18 years old! and you?
+

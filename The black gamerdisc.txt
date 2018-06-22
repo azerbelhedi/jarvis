@@ -1,0 +1,164 @@
+         ###############2017-01-19 14:09:37.264007###############
+................................................................................
+you >>>>>> :wath you name
+jarvis:i am JARVIS! and you ?
+you >>>>>> :sajed
+jarvis:nice to meet you sajed
+you >>>>>> :haw are you
+jarvis:good and you ?
+you >>>>>> :fane
+jarvis:sorry i didn t understand what you sad : (fane)
+you >>>>>> :where are you from
+jarvis:i am from the USA and i live in california and you ? 
+you >>>>>> :japon
+jarvis:oh  japon i know it is  a very nice and lovely place 
+you >>>>>> :how old are you
+jarvis:i am 18 years old! and you?
+you >>>>>> :200
+jarvis:you are old
+you >>>>>> :how old are you
+jarvis:i am 18 years old! and you?
+you >>>>>> : 12
+jarvis:you re young :p
+you >>>>>> :how old are you
+jarvis:i am 18 years old! and you?
+you >>>>>> :18
+jarvis:oh we are the same age :)
+you >>>>>> : ok -_-
+jarvis:hello
+you >>>>>> : haw are you
+jarvis:i am 18 years old! and you?
+you >>>>>> :how are you
+         ###############2017-01-19 14:28:11.503308###############
+................................................................................
+you >>>>>> :how are you
+jarvis:good and you ?
+you >>>>>> :
+jarvis:what do you want to say
+you >>>>>> :i not fine
+jarvis:i am from the USA and i live in california and you ? 
+you >>>>>> :
+jarvis:what do you want to say
+you >>>>>> :	
+jarvis:hello
+you >>>>>> :how are you
+jarvis:good and you ?
+you >>>>>> :i not fine
+jarvis:sorry i didn t understand what you sad : (i not fine)
+you >>>>>> :my name is sajed
+jarvis:i am JARVIS! and you ?
+         ###############2017-01-19 14:35:51.746771###############
+................................................................................
+you >>>>>> :how are you
+jarvis:good and you ?
+you >>>>>> :im not fine
+jarvis:thats cool :)
+you >>>>>> :how are you
+jarvis:good and you ?
+you >>>>>> :bad
+jarvis: -_- come on don t worry , be happy! 
+         ###############2017-01-19 14:41:00.124658###############
+................................................................................
+you >>>>>> :welcome
+jarvis:hello
+you >>>>>> :how  are you
+jarvis:i am 18 years old! and you?
+you >>>>>> :how are you
+         ###############2017-01-19 14:43:59.240283###############
+................................................................................
+you >>>>>> :hi
+jarvis:hello
+you >>>>>> :how are you
+jarvis:good and you ?
+you >>>>>> :good thx
+jarvis:welcome
+you >>>>>> :how old are you
+jarvis:i am 18 years old! and you?
+you >>>>>> : 20
+jarvis:good :)
+you >>>>>> :thx :)
+jarvis:welcome
+you >>>>>> :where are you from
+jarvis:i am from the USA and i live in california and you ? 
+you >>>>>> : tunisien
+jarvis:oh  tunisien i know it is  a very nice and lovely place 
+you >>>>>> :what are you favorite subject
+jarvis:good and you ?
+you >>>>>> :nice
+jarvis:thats cool :)
+you >>>>>> :thx
+jarvis:welcome
+you >>>>>> :what is your name
+jarvis:i am JARVIS! and you ?
+you >>>>>> :oh is a bad name :p
+jarvis:nice to meet you oh bad :p
+you >>>>>> :what was a first pet
+jarvis:hello
+you >>>>>> :wtf
+jarvis:hello
+         ###############2017-01-19 14:57:41.405012###############
+................................................................................
+
+         ###############2017-01-21 18:52:37.696689###############
+
+................................................................................
+
+you >>>>>> :welcome
+
+jarvis:hello
+
+you >>>>>> :how are you
+
+jarvis:good and you ?
+
+you >>>>>> :not good
+
+jarvis:sorry i didn t understand what you sad : (not good)
+
+you >>>>>> :pfffff
+
+jarvis:hello
+
+you >>>>>> :where are you from
+
+jarvis:i am from the USA and i live in california and you ? 
+
+you >>>>>> :and me
+
+jarvis:oh  and me i know it is  a very nice and lovely place 
+
+you >>>>>> :how old are you
+
+jarvis:i am 18 years old! and you?
+
+you >>>>>> :500
+
+jarvis:you are old
+
+you >>>>>> :hhh
+
+jarvis:sorry i can t understand(hhh)
+
+you >>>>>> :-_-
+
+jarvis:hello
+
+you >>>>>> : oh man
+
+jarvis:hello
+
+you >>>>>> :ok hi
+
+jarvis:hello
+
+you >>>>>> :how old are you
+
+jarvis:i am 18 years old! and you?
+
+you >>>>>> :11
+
+jarvis:you re young :p
+
+you >>>>>> ::)
+
+jarvis:hello

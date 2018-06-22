@@ -1,0 +1,21 @@
+dect -ls
+dect
+add
+delete
+end
+mkdect
+user -ls
+dect -st
+jdc -t
+dect -s
+user -s
+mkans
+ans -ls
+rmans
+rmdect
+tree
+history
+history -al
+
+
+ 

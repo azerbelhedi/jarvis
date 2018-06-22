@@ -1,0 +1,6 @@
+bash_code:best_first_try
+int a
+var a
+get a
+print a*a
+end

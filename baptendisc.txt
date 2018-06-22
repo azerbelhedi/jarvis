@@ -1,0 +1,56 @@
+
+         ###############2017-02-09 11:49:03.608249###############
+
+................................................................................
+
+you >>>>>> :h
+
+jarvis:hello
+
+you >>>>>> :how are you
+
+jarvis:good and you ?
+
+you >>>>>> :good
+
+jarvis:thats cool :)
+
+you >>>>>> :where are you from
+
+jarvis:i am from the USA and i live in california and you ? 
+
+you >>>>>> :i am from tunisia
+
+jarvis:oh  tunisia i know it is  a very nice and lovely place 
+
+you >>>>>> :goo
+
+jarvis:hello
+
+you >>>>>> :what s your name
+
+jarvis:i am JARVIS! and you ?
+
+you >>>>>> :i am azer belhahaha
+
+jarvis:nice to meet you azer belhahaha
+
+you >>>>>> :goodbye
+
+jarvis:good bye
+
+         ###############2017-02-09 11:51:45.341956###############
+
+................................................................................
+
+you >>>>>> :hi
+
+jarvis:hello
+
+you >>>>>> : you 're hacked
+
+jarvis:i am 18 years old! and you?
+
+         ###############2017-02-09 11:52:45.963840###############
+
+................................................................................

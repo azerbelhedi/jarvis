@@ -1,0 +1,54 @@
+         ###############2017-01-19 10:46:26.928958###############
+................................................................................
+         ###############2017-01-19 11:14:00.206507###############
+................................................................................
+you >>>>>> :hello
+jarvis:hello
+you >>>>>> :how are you
+jarvis:good and you ?
+         ###############2017-01-19 11:17:49.993281###############
+................................................................................
+you >>>>>> :hi
+jarvis:hello
+you >>>>>> :how are you
+jarvis:good and you ?
+you >>>>>> :godd 
+jarvis:sorry i didn t understand what you sad : (godd )
+you >>>>>> :good
+jarvis:hello
+you >>>>>> :whats you rn name
+jarvis:i am JARVIS! and you ?
+you >>>>>> :iam azer
+jarvis:nice to meet you azer
+you >>>>>> :nice to meet you too
+jarvis:nice to meet you too
+you >>>>>> :where are you from
+jarvis:sorry i didn t understand what you sad : (where are you from)
+you >>>>>> :where are you from
+jarvis:i am from the USA and i live in california and you ? 
+you >>>>>> :i m from yunisia
+jarvis:oh  yunisia i know it is  a very nice and lovely place 
+         ###############2017-01-19 11:26:01.200257###############
+................................................................................
+you >>>>>> :hey
+you >>>>>> :how are you
+you >>>>>> :fine
+you >>>>>> :what s your name
+you >>>>>> :i am azer
+you >>>>>> :where are you from
+you >>>>>> :i am from tunisia
+you >>>>>> :bye
+         ###############2017-01-19 11:29:23.765218###############
+................................................................................
+you >>>>>> :hi
+you >>>>>> :how are you
+you >>>>>> :goodbye
+         ###############2017-01-19 13:16:34.413393###############
+................................................................................
+you >>>>>> :hello
+you >>>>>> :how are you
+you >>>>>> :what the fuck is that
+you >>>>>> :sorry i am nervous
+you >>>>>> :i am azer
+you >>>>>> :me too
+you >>>>>> :where are you
